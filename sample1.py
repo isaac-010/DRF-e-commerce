@@ -1,1 +1,2 @@
-
+def fromGit():
+  return "HELLO"
